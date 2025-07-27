@@ -60,6 +60,10 @@
 
 ---
 
+<p align="center"> ✨ Let's connect, code, and collaborate on something awesome! </p> 
+
+---
+
 ## 💫 <span style="font-size: 1.3rem;">Fun Fact</span>
 
 > _“I'm like the flow of a river — wherever it goes, I follow. The same applies to my skills: I learn what’s needed along the way.”_  
