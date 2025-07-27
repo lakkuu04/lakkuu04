@@ -4,8 +4,8 @@
 <h1 align="center">Hello 👋, I'm Lakshika</h1>
 
 <p align="center">
-  <a href=https://linkedin.com/in/your-link](https://www.linkedin.com/in/lakshika-sabharwal-a7b76429b/ target="_blank">LinkedIn</a> • 
-  <a href=https://twitter.com/your-link](https://x.com/lakkusabhar04 target="_blank">Twitter</a>
+  <a href=https://www.linkedin.com/in/lakshika-sabharwal-a7b76429b/ target="_blank">LinkedIn</a> • 
+  <a href=https://x.com/lakkusabhar04 target="_blank">Twitter</a>
 </p>
 
 ---
