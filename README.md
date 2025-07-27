@@ -60,10 +60,6 @@
 
 ---
 
-<p align="center"> ✨ Let's connect, code, and collaborate on something awesome! </p> 
-
----
-
 ## 💫 <span style="font-size: 1.3rem;">Fun Fact</span>
 
 > _“I'm like the flow of a river — wherever it goes, I follow. The same applies to my skills: I learn what’s needed along the way.”_  
@@ -79,6 +75,11 @@
 
 ## 🐍 <span style="font-size: 1.3rem;">GitHub Contribution Snake</span>
 
-```html
+html
 <!-- Add this only if you generate the snake file using GitHub Actions -->
 ![snake gif](https://github.com/lakkuu04/lakkuu04/blob/output/github-contribution-grid-snake.svg)
+
+---
+<p align="center"> ✨ Let's connect, code, and collaborate on something awesome! </p> 
+
+---
