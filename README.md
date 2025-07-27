@@ -21,7 +21,7 @@
 ## 🚀 <span style="font-size: 1.6rem;">Tech Stack & Tools</span>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF61D4&center=true&vCenter=true&width=600&lines=💻+Languages+%2F+Frameworks+I+Use " />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF61D4&center=true&vCenter=true&width=600&lines=💻+Languages+%2F+Frameworks+I+Use" />
 </p>
 
 <p align="center">
