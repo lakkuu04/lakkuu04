@@ -1,5 +1,8 @@
-<h1 align="center" style="font-size: 3rem; font-weight: bold;">Hey 👋, I'm <span style="color:#ff6ec7;">Lakshika</span></h1>
-<h3 align="center" style="font-size: 1.75rem; font-weight: 500;">🚀 Passionate about building scalable apps & solving real-world problems with code.</h3>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">
+  Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" />, I'm <span style="color:#ff6ec7;">Lakshika</span>
+</h1>
+
+<h2 align="center" style="font-size: 1.75rem; font-weight: 500;">🚀 Passionate about building scalable apps & solving real-world problems with code.</h2>
 
 <p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/lakshika-sabharwal-a7b76429b/" target="_blank">
