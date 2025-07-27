@@ -1,9 +1,9 @@
-<h1 align="center" style="font-size: 2.5rem;">Hey 👋, I'm <span style="color:#ff6ec7;">Lakshika Sabharwal</span></h1>
-<h3 align="center" style="font-size: 1.5rem;">🚀 Passionate about building scalable apps & solving real-world problems with code.</h3>
+<h1 align="center" style="font-size: 3rem; font-weight: bold;">Hey 👋, I'm <span style="color:#ff6ec7;">Lakshika</span></h1>
+<h3 align="center" style="font-size: 1.75rem; font-weight: 500;">🚀 Passionate about building scalable apps & solving real-world problems with code.</h3>
 
-<p align="center">
+<p align="center" style="margin-top: 20px;">
   <a href="https://www.linkedin.com/in/lakshika-sabharwal-a7b76429b/" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
   </a>
   <a href="https://x.com/lakkusabhar04" target="_blank">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
@@ -18,14 +18,14 @@
 
 ---
 
-## 🚀 <span style="font-size: 1.3rem;">Tech Stack & Tools</span>
+## 🚀 <span style="font-size: 1.6rem;">Tech Stack & Tools</span>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF61D4&center=true&vCenter=true&width=435&lines=💻+Languages+%2F+Frameworks+I+Use " />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF61D4&center=true&vCenter=true&width=600&lines=💻+Languages+%2F+Frameworks+I+Use " />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,mysql,git,github,vscode&theme=light" style="max-height:100px;" />
+  <img src="https://skillicons.dev/icons?i=python,java,html,css,js,react,mysql,git,github,vscode&theme=dark&perline=6" width="700" />
 </p>
 
 <p align="center">
@@ -35,7 +35,7 @@
 
 ---
 
-<h2 align="center" style="font-size: 1.6rem;">📊 GitHub Stats & Activity</h2>
+<h2 align="center" style="font-size: 1.75rem;">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakkuu04&show_icons=true&theme=react&hide=stars&custom_title=Lakshika's%20GitHub%20Stats" 
@@ -47,18 +47,17 @@
        width="460" />
 </div>
 
-
 ---
 
-## 📈 <span style="font-size: 1.3rem;">Top Languages</span>
+## 📈 <span style="font-size: 1.6rem;">Top Languages</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakkuu04&layout=compact&theme=radical&langs_count=6" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakkuu04&layout=compact&theme=radical&langs_count=6" width="500" />
 </p>
 
 ---
 
-## 🎯 <span style="font-size: 1.3rem;">Currently Focusing On</span>
+## 🎯 <span style="font-size: 1.6rem;">Currently Focusing On</span>
 
 - 💻 Strengthening my skills in **DSA**, **Machine Learning**, and **Deep Learning**
 - 🤝 Open to **collaborating on AI, web, or open-source projects**
@@ -66,25 +65,23 @@
 
 ---
 
-## 💫 <span style="font-size: 1.3rem;">Fun Fact</span>
+## 💫 <span style="font-size: 1.6rem;">Fun Fact</span>
 
 > _“I'm like the flow of a river — wherever it goes, I follow. The same applies to my skills: I learn what’s needed along the way.”_  
 > _(Just an average student with average skills 😅 but limitless curiosity!)_
 
 ---
 
-## 💬 <span style="font-size: 1.3rem;">Dev Quote</span>
+## 💬 <span style="font-size: 1.6rem;">Dev Quote</span>
 
 > “Passion is energy. Feel the power that comes from focusing on what excites you.” — *Oprah Winfrey*
 
 ---
 
-## 🐍 <span style="font-size: 1.3rem;">GitHub Contribution Snake</span>
+## 🐍 <span style="font-size: 1.6rem;">GitHub Contribution Snake</span>
 
 ![snake gif](https://github.com/lakkuu04/snk/raw/output/github-contribution-grid-snake.svg)
 
-
 ---
-<p align="center"> ✨ Let's connect, code, and collaborate on something awesome! </p> 
 
----
+<p align="center" style="font-size: 1.4rem;">✨ Let's connect, code, and collaborate on something awesome!</p>
