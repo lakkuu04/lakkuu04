@@ -10,14 +10,14 @@
 
 ---
 
-### 🛠️ Tech Stack:
-[C](https://img.shields.io/badge/-C-000?&logo=c)
-[Python](https://img.shields.io/badge/-Python-000?&logo=python)
-[Java](https://img.shields.io/badge/-Java-000?&logo=java)
-[JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-[HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-[CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-[MYSQL](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
+## 🛠️ Tech Stack:
+![C](https://img.shields.io/badge/-C-000?&logo=c)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
+![Java](https://img.shields.io/badge/-Java-000?&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
+![MYSQL](https://img.shields.io/badge/-SQLite-000?&logo=sqlite)
 
 ---
 
