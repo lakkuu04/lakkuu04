@@ -35,12 +35,19 @@
 
 ---
 
-## 📊 <span style="font-size: 1.3rem;">GitHub Stats & Activity</span>
+<h2>📊 GitHub Stats & Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lakkuu04&show_icons=true&theme=radical&hide=stars" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakkuu04&theme=radical" width="48%" />
-</p>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=lakkuu04&show_icons=true&theme=radical&hide=stars&custom_title=Lakshika's%20GitHub%20Stats" 
+       alt="Lakshika's GitHub Stats"
+       width="400" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=lakkuu04&theme=radical&date_format=M%20j%5B%2C%20Y%5D" 
+       alt="Lakshika's GitHub Streak"
+       width="400" />
+
+</div>
 
 ---
 
