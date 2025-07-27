@@ -81,9 +81,8 @@
 
 ## 🐍 <span style="font-size: 1.3rem;">GitHub Contribution Snake</span>
 
-html
-<!-- Add this only if you generate the snake file using GitHub Actions -->
-![snake gif](https://github.com/lakkuu04/lakkuu04/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/lakkuu04/snk/raw/output/github-contribution-grid-snake.svg)
+
 
 ---
 <p align="center"> ✨ Let's connect, code, and collaborate on something awesome! </p> 
