@@ -21,9 +21,9 @@
 
 ---
 
-<p align="center">
+<h2 align="center">
   <span style="font-size: 1.6rem;"><strong>🚀 Tech Stack & Tools</strong></span>
-</p>
+</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF61D4&center=true&vCenter=true&width=600&lines=💻+Languages+%2F+Frameworks+I+Use" />
