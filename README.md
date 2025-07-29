@@ -21,9 +21,7 @@
 
 ---
 
-<h2 align="center">
-  <span style="font-size: 1.6rem;"><strong>🚀 Tech Stack & Tools</strong></span>
-</h2>
+<h2 align="center">🚀 Tech Stack & Tools</h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=FF61D4&center=true&vCenter=true&width=600&lines=💻+Languages+%2F+Frameworks+I+Use" />
@@ -40,8 +38,7 @@
 
 ---
 
-
-<h2 align="center" style="font-size: 1.75rem;">📊 GitHub Stats & Activity</h2>
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lakkuu04&show_icons=true&theme=react&hide=stars&custom_title=Lakshika's%20GitHub%20Stats" 
@@ -55,7 +52,7 @@
 
 ---
 
-## 📈 <span style="font-size: 1.6rem;">Top Languages</span>
+<h2 align="center">📈 Top Languages</h2>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lakkuu04&layout=compact&theme=radical&langs_count=6" width="500" />
@@ -63,30 +60,38 @@
 
 ---
 
-## 🎯 <span style="font-size: 1.6rem;">Currently Focusing On</span>
+<h2 align="center">🎯 Currently Focusing On</h2>
 
-- 💻 Strengthening my skills in **DSA**, **Machine Learning**, and **Deep Learning**
-- 🤝 Open to **collaborating on AI, web, or open-source projects**
-- 💬 Ask me about anything in **Python**, **Java**, or **Web Dev**
-
----
-
-## 💫 <span style="font-size: 1.6rem;">Fun Fact</span>
-
-> _“I'm like the flow of a river — wherever it goes, I follow. The same applies to my skills: I learn what’s needed along the way.”_  
-> _(Just an average student with average skills 😅 but limitless curiosity!)_
+<p align="center">
+  💻 Strengthening my skills in <strong>DSA</strong>, <strong>Machine Learning</strong>, and <strong>Deep Learning</strong><br/>
+  🤝 Open to <strong>collaborating on AI, web, or open-source projects</strong><br/>
+  💬 Ask me about anything in <strong>Python</strong>, <strong>Java</strong>, or <strong>Web Dev</strong>
+</p>
 
 ---
 
-## 💬 <span style="font-size: 1.6rem;">Dev Quote</span>
+<h2 align="center">💫 Fun Fact</h2>
 
-> “Passion is energy. Feel the power that comes from focusing on what excites you.” — *Oprah Winfrey*
+<blockquote align="center">
+  <em>“I'm like the flow of a river — wherever it goes, I follow. The same applies to my skills: I learn what’s needed along the way.”</em><br/>
+  <sub>(Just an average student with average skills 😅 but limitless curiosity!)</sub>
+</blockquote>
 
 ---
 
-## 🐍 <span style="font-size: 1.6rem;">GitHub Contribution Snake</span>
+<h2 align="center">💬 Dev Quote</h2>
 
-![snake gif](https://github.com/lakkuu04/snk/raw/output/github-contribution-grid-snake.svg)
+<blockquote align="center">
+  “Passion is energy. Feel the power that comes from focusing on what excites you.” — <em>Oprah Winfrey</em>
+</blockquote>
+
+---
+
+<h2 align="center">🐍 GitHub Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://github.com/lakkuu04/snk/raw/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
 
 ---
 
